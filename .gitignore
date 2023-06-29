@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.pdb
+*.config
+*.user
+*.suo
+*.cache
+*.bak
+bin/
+obj/
+*.log
+*~
+*.tmp
+*.vs/
+.vscode/
+*.sln
+*.csproj.user
